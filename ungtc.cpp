@@ -1,7 +1,7 @@
 /*
 UNGTC - ATD archive tool.
 
-Copyright (C) 2013 JrMasterModelBuilder
+Copyright (C) 2024 JrMasterModelBuilder
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
